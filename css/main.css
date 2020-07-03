@@ -1,4 +1,25 @@
+.mainbanner{
+	width: 165px;
+	height: 165px;
+	margin: auto;
+}
+
 body{
 	background-color: black;
 	font-family: "Agency FB";
 }
+
+h1{
+	color: red;
+	font-size: 64;
+	margin: 0;
+	font-weight: 200;
+}
+
+h2{
+	color: white;
+	font-size: 40;
+	margin: 0;
+	font-weight: 200;
+}
+
